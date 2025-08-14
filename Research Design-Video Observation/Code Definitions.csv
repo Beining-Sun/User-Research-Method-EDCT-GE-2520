@@ -1,0 +1,9 @@
+,Definitions
+Attitude.F,"Eyebrows drawn together or lowered, indicating frustration or dissatisfaction"
+Attitude.C,"Verbal expressions of dissatisfaction (e.g., “This is so annoying”)"
+Attitude.Q,"Verbal or facial expressions of confusion or uncertainty (e.g., “Where should I click?”)"
+Attitude.FR,User is forced to refresh or reload the page in order to continue the task
+Engagement.R,"User reads the on-screen text aloud, indicating attention to the content"
+Engagement.TM,"User makes nonverbal sounds indicating cognitive processing (e.g., “emmm”, “uhh...”)"
+Engagement.S,"User speaks aloud relevant task-related thoughts (e.g., “This must be the submit button”)"
+Engagement.TE,"User looks away from screen while clearly still focused (e.g., upward gaze with thoughtful facial expression)"
